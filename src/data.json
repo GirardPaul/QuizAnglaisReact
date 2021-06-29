@@ -1,0 +1,804 @@
+{
+  "words": [
+    {
+      "nameFrench": "Logiciel",
+      "word1": "Logiciel",
+      "word2": "Tools",
+      "word3": "Software",
+      "answer": "Software",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Cahier des charges",
+      "word1": "Specifications",
+      "word2": "Notebook",
+      "word3": "Load book",
+      "answer": "Specifications",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Navigateur",
+      "word1": "Software",
+      "word2": "Browser",
+      "word3": "Tools",
+      "answer": "Browser",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Moteur de recherche",
+      "word1": "Search bar",
+      "word2": "Search engine",
+      "word3": "Search tools",
+      "answer": "Search engine",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Programmation",
+      "word1": "Programming",
+      "word2": "Development",
+      "word3": "Hacking",
+      "answer": "Programming",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Nom de domaine",
+      "word1": "Name of domain",
+      "word2": "Domain",
+      "word3": "Domain name",
+      "answer": "Domain name",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Compte",
+      "word1": "Account",
+      "word2": "Count",
+      "word3": "Compte",
+      "answer": "Account",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Créer un compte",
+      "word1": "To sign up",
+      "word2": "Create account",
+      "word3": "Sign in",
+      "answer": "To sign up",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Définir un mot de passe",
+      "word1": "Make a password",
+      "word2": "Define account password",
+      "word3": "To set a password",
+      "answer": "To set a password",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Utilisateur",
+      "word1": "Person",
+      "word2": "User",
+      "word3": "Account",
+      "answer": "User",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Identifiant",
+      "word1": "Use",
+      "word2": "Username",
+      "word3": "Useless",
+      "answer": "Username",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Bibliothèque",
+      "word1": "Bibliotheque",
+      "word2": "Library",
+      "word3": "Book storage",
+      "answer": "Library",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Cadre de travail",
+      "word1": "Framework",
+      "word2": "Working cadre",
+      "word3": "Work box",
+      "answer": "Framework",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Environnement de développement",
+      "word1": "Integrated development environment",
+      "word2": "Development integrated environment",
+      "word3": "Environment development integrated",
+      "answer": "Integrated development environment",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Maintenance",
+      "word1": "Maintenance",
+      "word2": "Maintenanse",
+      "word3": "Meintenance",
+      "answer": "Maintenance",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Sauvegarde",
+      "word1": "Save",
+      "word2": "Keep",
+      "word3": "Backup",
+      "answer": "Backup",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Base de données",
+      "word1": "Database",
+      "word2": "Data flow",
+      "word3": "Data storage",
+      "answer": "Database",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Flux de données",
+      "word1": "Database",
+      "word2": "Data flow",
+      "word3": "Data storage",
+      "answer": "Data flow",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Stockage de données",
+      "word1": "Database",
+      "word2": "Data flow",
+      "word3": "Data storage",
+      "answer": "Data storage",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Pare-feu",
+      "word1": "Firewall",
+      "word2": "Firesave",
+      "word3": "Firepare",
+      "answer": "Firewall",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Logiciel espion",
+      "word1": "Software hack",
+      "word2": "Spyware",
+      "word3": "Spytools",
+      "answer": "Spyware",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Bande passante",
+      "word1": "Bandwidth",
+      "word2": "Bandheight",
+      "word3": "Bandstreight",
+      "answer": "Bandwidth",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Interface de programmation",
+      "word1": "Application Programming Interface",
+      "word2": "Programming Interface",
+      "word3": "Application Interface",
+      "answer": "Application Programming Interface",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Balise",
+      "word1": "Markup",
+      "word2": "Balise",
+      "word3": "Lineup",
+      "answer": "Markup",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Langage binaire",
+      "word1": "Language binary",
+      "word2": "Binary language",
+      "word3": "Binary development language",
+      "answer": "Binary language",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Système de gestion de contenu",
+      "word1": "System management control",
+      "word2": "System control",
+      "word3": "Content management system",
+      "answer": "Content management system",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Serveur",
+      "word1": "Server / Host",
+      "word2": "Hebergement / Container",
+      "word3": "Save / Control",
+      "answer": "Server / Host",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Service d’hébergement",
+      "word1": "Hebergment service",
+      "word2": "Hosting service",
+      "word3": "Service host",
+      "answer": "Hosting service",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Plan de site / Arborescence",
+      "word1": "Mapping website",
+      "word2": "Website plan",
+      "word3": "Sitemap",
+      "answer": "Sitemap",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Site statique",
+      "word1": "Static site",
+      "word2": "Dynamic site",
+      "word3": "Animated site",
+      "answer": "Static site",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Site dynamique",
+      "word1": "Static site",
+      "word2": "Dynamic site",
+      "word3": "Animated site",
+      "answer": "Dynamic site",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Site animé",
+      "word1": "Static site",
+      "word2": "Dynamic site",
+      "word3": "Animated site",
+      "answer": "Animated site",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Refonte",
+      "word1": "Remake",
+      "word2": "Redesign",
+      "word3": "Refonte",
+      "answer": "Redesign",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Charte graphique",
+      "word1": "Graphic charter",
+      "word2": "Graphic chart",
+      "word3": "Graphic design",
+      "answer": "Graphic charter",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Bannière",
+      "word1": "Pictures",
+      "word2": "Banner",
+      "word3": "Banniere",
+      "answer": "Banner",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Référencement",
+      "word1": "Referencement",
+      "word2": "Reference",
+      "word3": "Referencing",
+      "answer": "Referencing",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Optimisation pour les moteurs de recherche",
+      "word1": "Search Engine Optimization",
+      "word2": "Search Engine Advertising",
+      "word3": "Spamdexing",
+      "answer": "Search Engine Optimization",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Référencement payant",
+      "word1": "Search Engine Optimization",
+      "word2": "Search Engine Advertising",
+      "word3": "Spamdexing",
+      "answer": "Search Engine Advertising",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Référencement abusif",
+      "word1": "Search Engine Optimization",
+      "word2": "Search Engine Advertising",
+      "word3": "Spamdexing",
+      "answer": "Spamdexing",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Réseau Social",
+      "word1": "Social Tools Network",
+      "word2": "Network Software",
+      "word3": "Social Network",
+      "answer": "Social Network",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Protocole de transfert de fichier",
+      "word1": "File Transfer Protocol",
+      "word2": "File Share Protocol",
+      "word3": "Transfer File Protocol",
+      "answer": "File Transfer Protocol",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Transfert de fichier",
+      "word1": "File sharing",
+      "word2": "File transfer",
+      "word3": "File send",
+      "answer": "File transfer",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Partage de fichier",
+      "word1": "File sharing",
+      "word2": "File transfer",
+      "word3": "File send",
+      "answer": "File sharing",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Télécharger",
+      "word1": "To download/To upload",
+      "word2": "To get",
+      "word3": "To save",
+      "answer": "To download/To upload",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Visite virtuelle",
+      "word1": "Visit virtual",
+      "word2": "Session visit",
+      "word3": "Virtual visit",
+      "answer": "Virtual visit",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Objet interactif",
+      "word1": "Interactive object",
+      "word2": "Interactive objet",
+      "word3": "Object interactive",
+      "answer": "Interactive object",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Interface utilisateur graphique",
+      "word1": "Graphic interface",
+      "word2": "Graphic user interface",
+      "word3": "Interface user design",
+      "answer": "Graphic user interface",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Prototype d’interface utilisateur",
+      "word1": "Mock-up",
+      "word2": "Protoype user interface",
+      "word3": "Interface user",
+      "answer": "Mock-up",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Expérience utilisateur",
+      "word1": "User knowledge",
+      "word2": "User experience",
+      "word3": "User competence",
+      "answer": "User experience",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Maquette fonctionnelle d’un site",
+      "word1": "Wireframe",
+      "word2": "Wiresite",
+      "word3": "Wiredesign",
+      "answer": "Wireframe",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Déclarer une variable en langage java",
+      "word1": "Put a variable in java language",
+      "word2": "Declare a variable in java language",
+      "word3": "Make a variable in java language",
+      "answer": "Declare a variable in java language",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Utiliser des tableaux pour stocker plusieurs valeurs dans une seule variable",
+      "word1": "Use arrays to store multiple values in a single variable",
+      "word2": "Use objects to store multiple values in a single variable ",
+      "word3": "Use arrays to store values in a variable ",
+      "answer": "Use arrays to store multiple values in a single variable",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Créer une chaîne en java",
+      "word1": "Create a variable in java",
+      "word2": "Create a string in java",
+      "word3": "Create a chaine in java",
+      "answer": "Create a string in java",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Exécuter des boucles",
+      "word1": "Execute the loops",
+      "word2": "Execute loops",
+      "word3": "Execute many loops",
+      "answer": "Execute loops",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Effectuer une opération d'entrée ou de sortie",
+      "word1": "Put an input or output operation",
+      "word2": "Perform an output or input operation",
+      "word3": "Perform an input or output operation",
+      "answer": "Perform an input or output operation",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Traiter une information représentée sous sa forme binaire",
+      "word1": "Process information represented in its binary form",
+      "word2": "Process data represented in binary",
+      "word3": "Process information in its binary form",
+      "answer": "Process information represented in its binary form",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Comprendre les principaux livrables, les jalons, ainsi que les rôles et les responsabilités de chaque personne impliquée dans une charte de projet",
+      "word1": "Understand the main livrables, milestones, as well as the roles and responsibilities of a lot of person involved in a project chart",
+      "word2": "Understand the main deliverables, milestones, as well as the roles and responsibilities of each person involved in a project charter",
+      "word3": "Understand the main deliverables, milestones, as well as the person and responsibilities of each person involved in a charter project",
+      "answer": "Understand the main deliverables, milestones, as well as the roles and responsibilities of each person involved in a project charter",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Utiliser les opérateurs booléens pour réduire, étendre ou affiner les résultats de recherche",
+      "word1": "Use Boolean operators to narrow, expand, or refine search results",
+      "word2": "Use Boolean operators to reduce, expand, or refine search results",
+      "word3": "Use Boolean operators to narrow, expand, or reduce search results",
+      "answer": "Use Boolean operators to narrow, expand, or refine search results",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Créer une procédure stockée dans une base de données",
+      "word1": "Create a stored procedure in a database",
+      "word2": "Create a stored procedure in a datastorage",
+      "word3": "Create a stored procedure in a databox",
+      "answer": "Create a stored procedure in a database",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Utiliser les algorithmes les plus efficaces possibles pour résoudre des problèmes",
+      "word1": "Use the greate efficient algorithms possible to problems solve",
+      "word2": "Use the best algorithms possible to resolve problems",
+      "word3": "Use the most efficient algorithms possible to solve problems",
+      "answer": "Use the most efficient algorithms possible to solve problems",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Développer des solutions logicielles fiables et fonctionnelles",
+      "word1": "Develop reliable and functional logiciel solutions",
+      "word2": "Develop reliable and functional software solutions",
+      "word3": "Develop reliable and functional tools solutions",
+      "answer": "Develop reliable and functional software solutions",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Se positionner comme expert technique",
+      "word1": "Position yourself as a technical expert",
+      "word2": "Position me as a technical expert",
+      "word3": "Position oneself as a technical expert",
+      "answer": "Position oneself as a technical expert",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Gérer et optimiser la base de données",
+      "word1": "Manage and optimize the database",
+      "word2": "Manage and optimize the datastorage",
+      "word3": "Manage and optimize the dataflow",
+      "answer": "Manage and optimize the database",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Réaliser une étude logicielle",
+      "word1": "Manage a software study",
+      "word2": "Conduct a software study",
+      "word3": "Conduct a software student",
+      "answer": "Conduct a software study",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Concevoir l’architecture des applications",
+      "word1": "Design application architecture",
+      "word2": "Make application architecture",
+      "word3": "Product application architecture",
+      "answer": "Design application architecture",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Assurer la gestion des données",
+      "word1": "Secure data storage",
+      "word2": "Ensure data management",
+      "word3": "Ensure data base",
+      "answer": "Ensure data management",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Sécuriser les applications",
+      "word1": "Secure applications",
+      "word2": "Ensure applications",
+      "word3": "Preserve applications",
+      "answer": "Secure applications",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Implémenter des solutions logicielles",
+      "word1": "Implement software solutions",
+      "word2": "Implement tools solutions",
+      "word3": "Implement applications solutions",
+      "answer": "Implement software solutions",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Créer des programmes",
+      "word1": "Build programs",
+      "word2": "Make programs",
+      "word3": "To set up programs",
+      "answer": "Build programs",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Écrire et tester le code",
+      "word1": "Build and test code",
+      "word2": "Write and test code",
+      "word3": "Whrite and test code",
+      "answer": "Write and test code",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Collaborer avec des développeurs",
+      "word1": "Collaborate with developers",
+      "word2": "Building with developers",
+      "word3": "Work with developers",
+      "answer": "Collaborate with developers",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Utiliser des outils de développement",
+      "word1": "Use development tools",
+      "word2": "Use development software",
+      "word3": "Use development applications",
+      "answer": "Use development tools",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Créer des applications ergonomiques",
+      "word1": "Build ergonomic applications",
+      "word2": "Create ergonomic applications",
+      "word3": "Create applications ergonomic",
+      "answer": "Create ergonomic applications",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Ecouter, analyser et rédiger les besoins",
+      "word1": "Listen, analyze and write needs",
+      "word2": "Listen, analyze and build needs",
+      "word3": "Listen, analyze and make needs",
+      "answer": "Listen, analyze and write needs",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Être garant de la pérennité et de l’évolution des solutions",
+      "word1": "To be a garant of the sustainability and evolution of solutions",
+      "word2": "To be responsable of the sustainability and evolution of solutions",
+      "word3": "To be a guarantor of the sustainability and evolution of solutions",
+      "answer": "To be a guarantor of the sustainability and evolution of solutions",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Respecter les délais, les coûts et la qualité",
+      "word1": "Keep the deadlines, costs and quality",
+      "word2": "Meet deadlines, costs and quality",
+      "word3": "Respect deadlines, costs and quality",
+      "answer": "Meet deadlines, costs and quality",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Satisfaire les attentes du client",
+      "word1": "Satisfact client expectations",
+      "word2": "Respect client expectations",
+      "word3": "Meet client expectations",
+      "answer": "Meet client expectations",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Piloter une projet d’ingénierie logicielle",
+      "word1": "Lead a software engineering project",
+      "word2": "Lead a application engineering project",
+      "word3": "Lead a tools engineering project",
+      "answer": "Lead a software engineering project",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Construire un cahier des charges",
+      "word1": "Build loadbook",
+      "word2": "Build notebook",
+      "word3": "Build specifications",
+      "answer": "Build specifications",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Gérer les données de l’entreprise",
+      "word1": "Manage company data",
+      "word2": "Manage data's company",
+      "word3": "Manage company storage",
+      "answer": "Manage company data",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Accompagner la stratégie de l’entreprises dans ses évolutions numériques",
+      "word1": "Accompany the company's strategy in its numeric evolutions",
+      "word2": "Accompany the company's strategy in its digital evolutions",
+      "word3": "Accompanying the company's strategy in he's digital evolutions",
+      "answer": "Accompany the company's strategy in its digital evolutions",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Suivre les principes et bonnes pratiques de développement",
+      "word1": "Follow development principles and best practices",
+      "word2": "Follow development principles and practices best",
+      "word3": "Follow principles development and best practices",
+      "answer": "Follow development principles and best practices",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Analyser et identifier tous les problèmes potentiels",
+      "word1": "Analyze and take any potential problems",
+      "word2": "Analyze and identify any potential problems",
+      "word3": "Analyze and identify any problems potential",
+      "answer": "Analyze and identify any potential problems",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Améliorer et maintenir le logiciel à long terme",
+      "word1": "Improve and maintain the applications in the long term",
+      "word2": "Improve and maintain the software in the long term",
+      "word3": "Improve and maintain the tools in the long term",
+      "answer": "Improve and maintain the software in the long term",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Traduire le besoin du client en demandes fonctionnelles",
+      "word1": "Translate the client's knowledge into functional demands",
+      "word2": "Translate the client's need into functional demands",
+      "word3": "Translate the client's require into functional demands",
+      "answer": "Translate the client's need into functional demands",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Analyser et décrire les tâches à réaliser par l’ordinateur",
+      "word1": "Analyze and describe the operations to be performed by the computer",
+      "word2": "Analyze and describe the tasks to be performed by the computer",
+      "word3": "Analyze and describe the needs to be performed by the computer",
+      "answer": "Analyze and describe the tasks to be performed by the computer",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Déterminer et schématiser les fonctionnalités du logiciel",
+      "word1": "Determine and schematics the software functionalities",
+      "word2": "Analyze and schematics the software functionalities",
+      "word3": "Analyze and schematics the application functionalities",
+      "answer": "Determine and schematics the software functionalities",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Déceler les défauts de programmation",
+      "word1": "Determine programming defects",
+      "word2": "Take off programming defects",
+      "word3": "Identify programming defects",
+      "answer": "Identify programming defects",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Effectuer des traitements par lot",
+      "word1": "Perform batch processes",
+      "word2": "Perform processes lot",
+      "word3": "Make batch processes",
+      "answer": "Perform batch processes",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Contrôler les évolutions et les différentes versions du logiciel",
+      "word1": "Control developments and different versions of the software",
+      "word2": "Control developments and different versions of the application",
+      "word3": "Control developments and different versions of the tools",
+      "answer": "Control developments and different versions of the software",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Maintenir en condition opérationnelle le logiciel",
+      "word1": "Control the software in operational condition",
+      "word2": "Maintain the software in operational condition",
+      "word3": "Keep the software in operational condition",
+      "answer": "Keep the software in operational condition",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Mettre en production à l’issue des phases de qualification et d’intégration",
+      "word1": "Put into production at the off of the qualification and integration phases",
+      "word2": "Put into production at the end of the qualification and integration phases",
+      "word3": "Put into production at the last of the qualification and integration phases",
+      "answer": "Put into production at the end of the qualification and integration phases",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Rédiger le code source qui constitue le corps du logiciel",
+      "word1": "Write the source code that makes up the body of the software",
+      "word2": "Write the source code that makes up the body of the application",
+      "word3": "Write the source code that makes up the body of the tools",
+      "answer": "Write the source code that makes up the body of the software",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Mettre en œuvre l’agilité au sein d’une équipe de développeurs",
+      "word1": "Keep agility as part of a team of developers",
+      "word2": "Put agility as part of a team of developers",
+      "word3": "Implement agility as part of a team of developers",
+      "answer": "Implement agility as part of a team of developers",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Diriger des projets collaboratifs",
+      "word1": "Lead collaborative projects",
+      "word2": "Lead projects collaborative",
+      "word3": "Collaborative lead projects",
+      "answer": "Lead collaborative projects",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Vérifier que les fonctions offertes par le logiciel correspondent aux attentes du client",
+      "word1": "Make sure the features offered by the software are in line with the customer's intentions",
+      "word2": "Make sure the features offered by the software are in line with the customer's expectations",
+      "word3": "Make sure the features offered by the tools are in line with the customer's expectations",
+      "answer": "Make sure the features offered by the software are in line with the customer's expectations",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Définir les étapes clés de cycle de vie du projet",
+      "word1": "Define key lifecycle milestones for the project",
+      "word2": "Define lifecycle milestones for the project",
+      "word3": "Define lifecycle key milestones for the project",
+      "answer": "Define key lifecycle milestones for the project",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Intégrer les environnements de développement",
+      "word1": "Integrate development environments",
+      "word2": "Integrate development engine",
+      "word3": "Integrate development ensure",
+      "answer": "Integrate development environments",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Gérer les modifications apportées au code source",
+      "word1": "Manage changes to source code",
+      "word2": "Control changes to source code",
+      "word3": "Lead changes to source code",
+      "answer": "Manage changes to source code",
+      "clientResponse": ""
+    },
+    {
+      "nameFrench": "Déployer le logiciel sur un serveur d’applications",
+      "word1": "Deploy the application to an application server",
+      "word2": "Deploy the software to an application server",
+      "word3": "Deploy the tools to an application server",
+      "answer": "Deploy the software to an application server",
+      "clientResponse": ""
+    }
+  ]
+}
